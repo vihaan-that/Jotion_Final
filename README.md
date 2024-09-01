@@ -9,11 +9,7 @@ following a tutorial on YouTube.
 
 You can view the live version of the project [here](https://jotion-osadhi.vercel.app/).
 
-## About This Project
 
-This project is a fun experiment to create a functional clone of Notion, a popular note-taking and productivity
-application. If you're looking to understand how to build complex applications using Next.js, then examining the code of
-this project might be a good start.
 
 ## Built With
 
